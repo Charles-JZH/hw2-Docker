@@ -13,6 +13,8 @@
 (as **part-1/k8s-cluster-1.png** shows)  
 11. Deployed the docker image to the **Kubernetes cluster**. The console of the Kubernetes cluster outputted the "Hello World!".  
 (as **part-1/k8s-cluster-2.png** shows)  
+The Dockerfile and source code has also been uploaded to this Github repository already as **Dockerfile** and **start.go**.
+
 
 ## Part-2 steps:  
 1. Pulled the jupyter-notebook docker images and run it in my local computer.  
