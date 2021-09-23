@@ -3,7 +3,7 @@
 ## Part-1
 Note that:
 - **Dockerfile** and **start.go** refer to the Dockerfile and source code.  
-- I have finished all basic tasks of the part-1. The cluster name which I deployed the container is "hw2-14848" as the following stops show.
+- I have finished all basic tasks of the part-1. The cluster name which I deployed the container is "hw2-14848" as the following steps show.
 - I have finished the extra-credit task. I have deployed the container to the Kubernetes cluster as the following step 7 shows.  
 
 Steps:  
