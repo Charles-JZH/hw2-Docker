@@ -2,6 +2,8 @@
 
 ## Part-1
 **Dockerfile** and **start.go** refer to the Dockerfile and source code.  
+I have finished the extra-credit task. I have deployed the container to the Kubernetes cluster as the following step 7 shows.
+
 Steps:  
 1. Created a local docker image.  
 2. Pushed the local docker image to my docker hub.  
